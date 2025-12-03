@@ -11,3 +11,4 @@ The goal of this project is to document what we have learned about modern JavaSc
 ## Variables
 
 [let](./js/01.js) - Example of let variables
+[const](./js/02.js) - Example of const variables
