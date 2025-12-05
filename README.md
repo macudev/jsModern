@@ -1,14 +1,25 @@
-# jsModern
-This project is a introduction at Javascript modern.
+# Javascript
+> Creado en noviembre del _2025_
 
-## Curso from UDEMY
-Teacher Juan Pablo de la Torre Valdez 
+## Descripicón
+Se que existe múltiples repositorios que enseñan sobre javascript, cursos gratuitos y pagados.
+Este repositorio no pretende ser uno de ellos, únicamente es un documento personal en el que iré plasmando los conocimientos adquiridos y los ejemplos que surjan del aprendizaje.
+Yo no soy un profesor certificado, solo soy un ingeniero que concluyó sus estudios en sistemas computacionales y pretender adquirir un nuevo conomiento tecnologico en el mundo de desarrollo de software, si a alguno usa este repositorio para aprender o prácticar bienvenido sea.
+Acepto observaciones, criticas constructivas para seguir mejorando.
 
-## Objetive
+## Objetivo
+El objetivo es prácticar javascript, mejorar mi conocimiento y poder regresar a este repositorio cuando mi mente no quiera recordar algo básico y especifico.
 
-The goal of this project is to document what we have learned about modern JavaScript.
+## Ejecución
+Para ejecutar este proyecto solo realiza un fork a tu git, clona el repositorio y en la pc, ejecuta el html en tu navegador de confianza, podrás ver desde la terminal del navegador las distintos ejemplos que iré creando dentro de la carpeta de /js.
+Cabe aclarar que se tiene que ligar el enlace js en html del ejemplo que quieras probar:
 
-## Variables
+```
+	<script src="js/01.js"></script>
+```
 
-[let](./js/01.js) - Example of let variables
-[const](./js/02.js) - Example of const variables
+## Cónocimientos necesarios
+- HTML
+
+## Ejemplos de código
+[Ejemplos de variables **let** ](./js/01.js)
