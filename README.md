@@ -22,4 +22,6 @@ Cabe aclarar que se tiene que ligar el enlace js en html del ejemplo que quieras
 - HTML
 
 ## Ejemplos de código
-[Ejemplos de variables **let** ](./js/01.js)
+- [Ejemplos de variables **let** ](./js/01%20-%20let.js)
+- [Ejemplos de variables **const** ](./js/02%20-%20const.js)
+- [Ejemplos de tipos de datos ](./js/03%20-%20tipo%20datos.js)
