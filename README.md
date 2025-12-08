@@ -28,3 +28,4 @@ Cabe aclarar que se tiene que ligar el enlace js en html del ejemplo que quieras
 - [Objet & Destructuring ](./js/04-object.js)
 - [Modificando objectos ](./js/05-editObject.js)
 - [Destructuring en uno o más objetos ](./js/06-distructuring.js)
+- [Unir objetos ](./js/07-unionObject.js)
