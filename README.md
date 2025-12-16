@@ -30,3 +30,4 @@ Cabe aclarar que se tiene que ligar el enlace js en html del ejemplo que quieras
 - [Destructuring en uno o más objetos ](./js/06-distructuring.js)
 - [Unir objetos ](./js/07-unionObject.js)
 - [Concatenando string ](./js/08-concatenacion.js)
+- [Arreglos ](./js/09-array.js.js)
